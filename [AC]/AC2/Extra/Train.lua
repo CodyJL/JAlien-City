@@ -33,10 +33,10 @@ addCommandHandler("Speed",Speedtest) -- Stynax , /Speed Train# Speed
 function CreateCarts(TrackNumber)
 for i=1,Count do
 local x,y,z = unpack(Tracks[TrackNumber][i])
-Trains[TrackNumber]['Trains'][i] = exports.JStreamer3:JcreateObject('tram',x,y,z,0,0,0) -- Create cart at track subset.
+Trains[TrackNumber]['Trains'][i] = exports.Objs:JcreateObject('tram',x,y,z,0,0,0) -- Create cart at track subset.
 Trains[TrackNumber]['Doors'][i] = {}
-Trains[TrackNumber]['Doors'][i][1] = exports.JStreamer3:JcreateObject('tramd',x,y,z,0,0,0) -- Create Door #1
-Trains[TrackNumber]['Doors'][i][2] = exports.JStreamer3:JcreateObject('tramd',x,y,z,0,0,0) -- Create Door #2
+Trains[TrackNumber]['Doors'][i][1] = exports.Objs:JcreateObject('tramd',x,y,z,0,0,0) -- Create Door #1
+Trains[TrackNumber]['Doors'][i][2] = exports.Objs:JcreateObject('tramd',x,y,z,0,0,0) -- Create Door #2
 local Cart = Trains[TrackNumber]['Trains'][i] 
 Assigned[Cart] = {TrackNumber,i} -- Defines which track the cart is on, and which subsection.
 attachElements(Trains[TrackNumber]['Doors'][i][1],Cart,0,0,0)  -- Attach Door #1
