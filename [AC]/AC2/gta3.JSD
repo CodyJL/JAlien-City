@@ -3909,7 +3909,6 @@ sevos03_zzanim,sevos03_zzanim,svs_tex_nt1,sevos03_zzanim,350,nil,nil,nil,21,5
 jtown_klumbd,jtown_klumbd,newfunstuff,jtown_klumbd,280,nil,nil,nil
 poizd2,poizd2,metrok,poizd2,299,nil,nil,nil
 wfbuild_121,wfbuild_121,wftextures,wfbuild_121,299,nil,nil,true
-city101skladi,city101skladi,texture10int,city101skladi,150,nil,nil,nil
 city101zdancbot,city101zdancbot,texture101zdan,city101zdancbot,240,nil,nil,true
 ugoeast_zem155,ugoeast_zem155,southland,ugoeast_zem155,290,nil,nil,true
 ugoeast_zem219,ugoeast_zem219,southland,ugoeast_zem219,290,nil,nil,true
