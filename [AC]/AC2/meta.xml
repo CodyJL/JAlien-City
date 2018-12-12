@@ -11,6 +11,8 @@
 	<script src="Extra/Helpers.lua" type="server" />
  	<script src="Extra/Train.lua" type="server" />
 	
+	
+	<file src="Content/textures/tram.txd" type="client" />
 	<file src="Content/textures/texture_towertop.txd" type="client" />
 	<file src="Content/textures/fuel.txd" type="client" />
 	<file src="Content/textures/airport_shops.txd" type="client" />
@@ -5879,7 +5881,8 @@
 	<file src="Content/models/panonia2.dff" type="client" />
 	<file src="Content/models/ct_1shema.dff" type="client" />
 	<file src="Content/models/uuuuu_uplesa.dff" type="client" />
- 
+	<file src="Content/models/tram.dff" type="client" />
+	<file src="Content/models/tramd.dff" type="client" />
  
 	<file src="Content/coll/turmaks.col" type="client" />
 	<file src="Content/coll/airport_shops.col" type="client" />
@@ -11188,4 +11191,6 @@
 	<file src="Content/coll/panonia2.col" type="client" />
 	<file src="Content/coll/ct_1shema.col" type="client" />
 	<file src="Content/coll/uuuuu_uplesa.col" type="client" />
+	<file src="Content/coll/tram.col" type="client" />
+	<file src="Content/coll/tramd.col" type="client" />
 </meta>
