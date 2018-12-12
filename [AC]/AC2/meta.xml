@@ -1639,7 +1639,6 @@
 	<file src="Content/models/mexico12_zdanb.dff" type="client" />
 	<file src="Content/models/ugoeast_zem144.dff" type="client" />
 	<file src="Content/models/ukazout.dff" type="client" />
-	<file src="Content/models/city101skladi.dff" type="client" />
 	<file src="Content/models/morkoedno167.dff" type="client" />
 	<file src="Content/models/uuuuu_bexit.dff" type="client" />
 	<file src="Content/models/qwerty_shopbza.dff" type="client" />
@@ -6949,7 +6948,6 @@
 	<file src="Content/coll/mexico12_zdanb.col" type="client" />
 	<file src="Content/coll/ugoeast_zem144.col" type="client" />
 	<file src="Content/coll/ukazout.col" type="client" />
-	<file src="Content/coll/city101skladi.col" type="client" />
 	<file src="Content/coll/morkoedno167.col" type="client" />
 	<file src="Content/coll/uuuuu_bexit.col" type="client" />
 	<file src="Content/coll/qwerty_shopbza.col" type="client" />
